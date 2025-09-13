@@ -28,7 +28,8 @@ Project Overview
 
 # Connect
 Project shared for learning and collaboration.
-Feel free to fork, suggest improvements, or connect with me on LinkedIn
+Feel free to fork, suggest improvements, or connect with me on LinkedIn [https://www.linkedin.com/in/chetankumawat209/]
+
 
 ## 🔗 How to Run
 ```bash
