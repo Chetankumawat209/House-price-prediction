@@ -1,5 +1,6 @@
 pandas
 seaborn
-matplot
-sklearn
+matplotlib
+scikit-learn
 pickle
+streamlit
